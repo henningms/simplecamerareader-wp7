@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCameraReader", "SimpleCameraReader\SimpleCameraReader.csproj", "{61B30303-2FD9-4131-A5BF-C137E8F1D377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestQR", "TestQR\TestQR.csproj", "{EB1569F8-77B2-4A18-A1BB-2459DE8C40E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B30303-2FD9-4131-A5BF-C137E8F1D377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B30303-2FD9-4131-A5BF-C137E8F1D377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B30303-2FD9-4131-A5BF-C137E8F1D377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B30303-2FD9-4131-A5BF-C137E8F1D377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB1569F8-77B2-4A18-A1BB-2459DE8C40E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1569F8-77B2-4A18-A1BB-2459DE8C40E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1569F8-77B2-4A18-A1BB-2459DE8C40E5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EB1569F8-77B2-4A18-A1BB-2459DE8C40E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1569F8-77B2-4A18-A1BB-2459DE8C40E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB1569F8-77B2-4A18-A1BB-2459DE8C40E5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

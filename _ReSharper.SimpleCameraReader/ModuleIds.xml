@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="61B30303-2FD9-4131-A5BF-C137E8F1D377" ModuleId="SimpleCameraReader" />
+  <Module PersistentId="EB1569F8-77B2-4A18-A1BB-2459DE8C40E5" ModuleId="TestQR" />
+</Modules>

@@ -1,0 +1,10 @@
+c:\users\henning\documents\visual studio 2010\Projects\SimpleCameraReader\SimpleCameraReader\obj\Debug\ResolveAssemblyReference.cache
+c:\users\henning\documents\visual studio 2010\Projects\SimpleCameraReader\SimpleCameraReader\Bin\Debug\SimpleCameraReader.dll
+c:\users\henning\documents\visual studio 2010\Projects\SimpleCameraReader\SimpleCameraReader\Bin\Debug\SimpleCameraReader.pdb
+c:\users\henning\documents\visual studio 2010\Projects\SimpleCameraReader\SimpleCameraReader\Bin\Debug\zxingwp7.dll
+c:\users\henning\documents\visual studio 2010\Projects\SimpleCameraReader\SimpleCameraReader\Bin\Debug\WriteableBitmapExWinPhone.dll
+c:\users\henning\documents\visual studio 2010\Projects\SimpleCameraReader\SimpleCameraReader\Bin\Debug\zxingwp7.pdb
+c:\users\henning\documents\visual studio 2010\Projects\SimpleCameraReader\SimpleCameraReader\Bin\Debug\WriteableBitmapExWinPhone.pdb
+c:\users\henning\documents\visual studio 2010\Projects\SimpleCameraReader\SimpleCameraReader\Bin\Debug\WriteableBitmapExWinPhone.xml
+c:\users\henning\documents\visual studio 2010\Projects\SimpleCameraReader\SimpleCameraReader\obj\Debug\SimpleCameraReader.dll
+c:\users\henning\documents\visual studio 2010\Projects\SimpleCameraReader\SimpleCameraReader\obj\Debug\SimpleCameraReader.pdb
